@@ -51,8 +51,6 @@
 
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=algolia" />
 
-<br/>
-
 <a href="https://github.com/abhishekshedge01/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abhishekshedge01">
 </a>
