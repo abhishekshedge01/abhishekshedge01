@@ -43,9 +43,9 @@
 
 <h3 style="font-size: 15px, font-family: Nunito">My Github Stats</h3>
 
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=algolia"/>
 
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=algolia" />
 
 <br/>
 
