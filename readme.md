@@ -2,14 +2,14 @@
 <h4 align="">I'm a passionate Front End and Android Developer</h4>
 <hr>
 
-<h3 style="font-size: 16px"> 🙋‍♂️ About Me</h3>
+<h3 style="font-size: 15px"> 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning **React.**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🥅 Goal of 2022: Contribute more to **Open Source Community**
 
 
-<h3 style="font-size: 16px">✨ Connect with me on:
+<h3 style="font-size: 15px">✨ Connect with me on:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
@@ -17,7 +17,7 @@
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/39/000000/gmail.png"/></a>
 
-<h3 style="font-size: 16px">🚀 Languages and Tools:</h3>
+<h3 style="font-size: 15px">🚀 Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/></a>&nbsp
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/html-5.png"/> </a> &nbsp
@@ -34,7 +34,7 @@
 </p>
 
 
-<h3 style="font-size: 16px">📊 My Github Stats</h3>
+<h3 style="font-size: 15px">📊 My Github Stats</h3>
 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast"/>
 
