@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **abhishedge01@gmail.com**
 
-- ⚡ Hobby: **I am a fitness freak.**
 
 #
 
