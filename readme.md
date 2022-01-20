@@ -12,10 +12,10 @@
 <h3 style="font-size: 15px">✨ Connect with me on:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/40/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/39/000000/gmail.png"/></a>
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
+<img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/29/000000/gmail.png"/></a>
 
 <h3 style="font-size: 15px">🚀 Languages and Tools:</h3>
 <p align="left"> 
