@@ -37,15 +37,10 @@
 
   <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast&hide=css)](https://github.com/abhishekshedge01/github-readme-stats)
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast"/>
 
-![Anurag's GitHub stas](https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast)
-<br/>
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast" />
-</div>
+ 
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast"/>
 
 ## Connect with me:
 <p align="left">
