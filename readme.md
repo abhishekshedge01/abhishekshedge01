@@ -24,7 +24,7 @@
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/29/000000/gmail.png"/></a>
 
-<h3 style="font-size: 15px, font-family: Nunito">🚀 Languages and Tools:</h3>
+<h3 style="font-size: 15px, font-family: Nunito">Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/></a>&nbsp
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/html-5.png"/> </a> &nbsp
