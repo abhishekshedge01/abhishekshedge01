@@ -9,14 +9,14 @@
 <h4 align=""><i>I'm a passionate Front End and Android Developer</i></h4>
 <hr>
 
-<h3 style="font-size: 15px, font-family: Nunito"> 🙋‍♂️ About Me</h3>
+<h3 style="font-size: 15px, font-family: Nunito">About Me</h3>
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🥅 Goal of 2022: Contribute more to Open Source Community
 
 
-<h3 style="font-size: 15px, font-family: Nunito">✨ Connect with me on:
+<h3 style="font-size: 15px, font-family: Nunito">Connect with me on:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
@@ -41,7 +41,7 @@
 </p>
 
 
-<h3 style="font-size: 15px, font-family: Nunito">📊 My Github Stats</h3>
+<h3 style="font-size: 15px, font-family: Nunito">My Github Stats</h3>
 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast"/>
 
