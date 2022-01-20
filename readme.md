@@ -5,9 +5,7 @@
 <h3 style="font-size: 16px"> 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning **React.**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 🥅 Goal of 2022: Contribute more to **Open Source Community**
 
 
