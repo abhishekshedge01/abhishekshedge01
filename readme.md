@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🥅 Goal of 2022: Contribute more to Open Source Community
+- 📧 Mail me on: **abhishedge01@gmail.com**
 
 
 <h3 style="font-size: 15px, font-family: Nunito">Connect with me on:
@@ -22,7 +23,6 @@
 <a href = "https://www.linkedin.com/in/abhishek-shedge/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/abhishek.shedge.509/"><img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
 <a href = "https://www.instagram.com/_abhishekshedge_/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
-<a href = "mailto:abhishedge01@gmail.com"><img src="https://img.icons8.com/fluent/29/000000/gmail.png"/></a>
 
 <h3 style="font-size: 15px, font-family: Nunito">Languages and Tools:</h3>
 <p align="left"> 
