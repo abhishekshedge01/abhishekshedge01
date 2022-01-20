@@ -7,13 +7,14 @@
 
 <h3 style="font-family: Nunito" align="">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">, I'm Abhishek</h1>
 <h4 align=""><i>I'm a passionate Front End and Android Developer</i></h4>
-<hr>
+<br/>
 
 <h3 style="font-size: 15px, font-family: Nunito"> 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🥅 Goal of 2022: Contribute more to Open Source Community
+<br/>  
 
 
 <h3 style="font-size: 15px, font-family: Nunito">✨ Connect with me on:
@@ -23,6 +24,9 @@
 <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/29/000000/gmail.png"/></a>
+<br/>
+
+
 
 <h3 style="font-size: 15px, font-family: Nunito">🚀 Languages and Tools:</h3>
 <p align="left"> 
