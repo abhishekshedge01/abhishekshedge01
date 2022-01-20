@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
 <h2 align="center">I'm a passionate Front End and Android Developer</h2>
 
-
 <h3 style="font-size: 17px"> 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning **React.**
@@ -14,8 +13,14 @@
 
 <br>
 
-<h3 style="font-size: 17px">🚀 Languages and Tools:</h3>
+<h3 style="font-size: 17px">✨ Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/40/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
 
+
+<h3 style="font-size: 17px">🚀 Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>&nbsp
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp
@@ -41,15 +46,6 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast" />
 
 <br/>
-<h3 style="font-size: 17px">Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
 
 <a href="https://github.com/abhishekshedge01/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abhishekshedge01">
