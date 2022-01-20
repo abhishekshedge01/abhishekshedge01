@@ -1,5 +1,6 @@
-<h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h2>
-<h3>I'm a passionate Front End and Android Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
+<h2 align="center">I'm a passionate Front End and Android Developer</h2>
+
 
 ## 🙋‍♂️ About Me
 
@@ -10,6 +11,9 @@
 - 🥅 Goal of 2022: Contribute more to **Open Source Community**
 
 - 📫 How to reach me **abhishedge01@gmail.com**
+
+- ⚡ Hobby: **I am a fitness freak.**
+
 #
 
 ## 🚀 Languages and Tools:
