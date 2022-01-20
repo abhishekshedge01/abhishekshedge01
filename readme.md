@@ -2,7 +2,7 @@
 <h2 align="center">I'm a passionate Front End and Android Developer</h2>
 
 
- 🙋‍♂️ About Me
+<h3 style="font-size: 17px"> 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning **React.**
 
@@ -14,7 +14,7 @@
 
 <br>
 
-🚀 Languages and Tools:
+<h3 style="font-size: 17px">🚀 Languages and Tools:</h3>
 
 <p align="left"> 
      <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>&nbsp
@@ -33,7 +33,7 @@
 <br>
 
 
-📊 My Github Stats
+<h3 style="font-size: 17px">📊 My Github Stats
 
   <br/>
 
@@ -42,7 +42,7 @@
 
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast"/>
 
-## Connect with me:
+<h3 style="font-size: 17px">Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
