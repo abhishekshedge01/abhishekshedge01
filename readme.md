@@ -2,7 +2,7 @@
 <h2 align="center">I'm a passionate Front End and Android Developer</h2>
 
 
-## 🙋‍♂️ About Me
+ 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **React.**
 
@@ -14,7 +14,7 @@
 
 <br>
 
-## 🚀 Languages and Tools:
+🚀 Languages and Tools:
 
 <p align="left"> 
      <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>&nbsp
@@ -33,7 +33,7 @@
 <br>
 
 
-## 📊 My Github Stats
+📊 My Github Stats
 
   <br/>
 
