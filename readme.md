@@ -19,24 +19,28 @@
 <h3 style="font-size: 15px, font-family: Nunito">Connect with me on:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
-<img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/29/000000/gmail.png"/></a>
+<a href = "https://www.linkedin.com/in/abhishek-shedge/"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/abhishek.shedge.509/"><img src="https://img.icons8.com/fluency/30/000000/facebook-new.png"/>
+<a href = "https://www.instagram.com/_abhishekshedge_/"><img src="https://img.icons8.com/fluent/30/000000/instagram-new.png"/></a>
+<a href = "abhishedge01@gmail.com"><img src="https://img.icons8.com/fluent/29/000000/gmail.png"/></a>
 
 <h3 style="font-size: 15px, font-family: Nunito">Languages and Tools:</h3>
 <p align="left"> 
-     <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/></a>&nbsp
+     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/></a>&nbsp
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/html-5.png"/> </a> &nbsp
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/css3.png"/> </a> &nbsp
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/> </a>&nbsp
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/40/000000/javascript.png"/></a>&nbsp &nbsp
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/> </a>&nbsp &nbsp
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/38/000000/react-native.png"/></a>&nbsp
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/42/000000/android-os.png"/> </a>   
+    <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/> </a>&nbsp &nbsp
+    <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://img.icons8.com/color/38/000000/react-native.png"/>
+    </a>&nbsp
+    <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://img.icons8.com/color/42/000000/android-os.png"/> 
+    </a>   
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/43/000000/java-coffee-cup-logo--v1.png"/></a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/38/000000/firebase.png"/> </a> &nbsp
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/47/000000/mysql-logo.png"/> </a>&nbsp
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/38/000000/firebase.png"/> 
+    </a> &nbsp
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/47/000000/mysql-logo.png"/> 
+    </a>&nbsp
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/40/000000/git.png"/> </a> 
 </p>
 
