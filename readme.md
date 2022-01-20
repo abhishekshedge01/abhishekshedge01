@@ -37,10 +37,11 @@
 
   <br/>
 
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast" width="59%"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast"/>
 
+<br/>
 
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast" width="37%"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=highcontrast" />
 
 <h3 style="font-size: 17px">Connect with me:
 <p align="left">
