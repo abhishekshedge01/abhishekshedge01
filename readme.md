@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
-<h2 align="center">I'm a passionate Front End and Android Developer</h2>
+<h2 align="">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
+<h3 align="">I'm a passionate Front End and Android Developer</h2>
 
 <h3 style="font-size: 16px"> 🙋‍♂️ About Me</h3>
 
@@ -10,7 +10,7 @@
 - 🥅 Goal of 2022: Contribute more to **Open Source Community**
   
 
-<h3 style="font-size: 16px">✨ Connect with me:
+<h3 style="font-size: 16px">✨ Connect with me on:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
