@@ -35,7 +35,7 @@
 
 <h3 style="font-size: 17px">📊 My Github Stats
 
-  <br/><br/><br/>
+  <br/>
 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=highcontrast"/>
 
