@@ -6,14 +6,14 @@
 
 
 <h3 style="font-family: Nunito" align="">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">, I'm Abhishek</h1>
-<h4 style="font-family: Nunito" align="">I'm a passionate Front End and Android Developer</h4>
+<h4 align=""><i>I'm a passionate Front End and Android Developer</i></h4>
 <hr>
 
 <h3 style="font-size: 15px, font-family: Nunito"> 🙋‍♂️ About Me</h3>
 
-- 🌱 I’m currently learning **React.**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🥅 Goal of 2022: Contribute more to **Open Source Community**
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🥅 Goal of 2022: Contribute more to Open Source Community
 
 
 <h3 style="font-size: 15px, font-family: Nunito">✨ Connect with me on:
