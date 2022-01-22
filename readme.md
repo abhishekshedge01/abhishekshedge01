@@ -6,7 +6,7 @@
 
 
 <h3 style="font-family: Nunito" align="">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">, I'm Abhishek</h1>
-<h4 align=""><i>I'm a passionate Front End and Android Developer</i></h4>
+<h4 align="">I'm a passionate Front End and Android Developer</h4>
 <hr>
 
 <h3 style="font-size: 15px, font-family: Nunito">About Me</h3>
