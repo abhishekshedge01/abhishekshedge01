@@ -49,7 +49,8 @@
 
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhishekshedge01&show_icons=true&theme=algolia"/>
 
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=algolia" />
+<!--  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshedge01&theme=algolia" /> -->
+     <img class="img" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 
 <a href="https://github.com/abhishekshedge01/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abhishekshedge01">
